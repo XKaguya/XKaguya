@@ -1,7 +1,6 @@
 - Hi, This is Kaguya
 - Major in Cybersecurity
 - I'm a Pwner
-- Discord: Tempest#5393
 - Email: rx700@vip.qq.com
 
 ![Kaguya's GitHub stats](https://github-readme-stats.vercel.app/api?username=XKaguya&count_private=true)
