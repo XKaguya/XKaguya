@@ -2,8 +2,6 @@
   
 ### Hi there 👋, I'm Kaguya.
 
-:zap: I also go by the names RedLeaves and Decline.
-
 :snowflake: Major in Cybersecurity.
 
 :mag: I'm a Pwnner, interested in computer composition and principles.
